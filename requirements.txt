@@ -1,0 +1,8 @@
+streamlit
+pathlib
+langchain
+langchain_groq
+pathlib
+sqlalchemy
+langchain_community
+mysql-connector-python
